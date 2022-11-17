@@ -2,9 +2,10 @@
 
 This repository is no longer maintained. 
 
-A repo for cross-moda hashing algorithms.
-The source code of some algorithms are not offered by the authors, we implement these models in tensorflow. While for other algorithms' 
-source codes which are released, we call the original matlab code in python.
+
+Implementations of state-of-the-art cross-model hashing algorithms(back in 2019).
+The flickr dataset is used as an example to demonstrate how data is preprocessed. For further details, please check out papers list below and follow standard data processing pipeline, for image and text. The `flickr.py` can also be used a reference when cleaning the flickr dataset. Some algorithms below are Python wrapper based on the original matlab codes. For others, models are implemented and trained to our best knowledge. 
+
 Papers that have been implemented are as follows：
 * IMH
   
