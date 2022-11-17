@@ -1,5 +1,7 @@
 # cross-modal-hasing-playground
 
+This repository is no longer maintained. 
+
 A repo for cross-moda hashing algorithms.
 The source code of some algorithms are not offered by the authors, we implement these models in tensorflow. While for other algorithms' 
 source codes which are released, we call the original matlab code in python.
